@@ -1,4 +1,4 @@
-Boklånesystemet
+﻿#Boklånesystemet
 
 Syftet med mitt boklånesystem är att fånga in allt vi lärt oss på kursen.
 Mitt system innehåller classer, listor, for och whileloopar, random-funktioner osv.
@@ -6,8 +6,8 @@ Mitt system innehåller classer, listor, for och whileloopar, random-funktioner 
 När man startar boklånesystemet möts man av ett login och passord. Jag har hårdkodat ett adminkonto som skapar nya
 användarkonton.
 
-Adminlogin: admin
-passord: admin
+- Adminlogin: admin
+- passord: admin
 
 Som admin har du rätt till att
 - skapa nya konton till användare:  Man anger namn och önskat lösenord. Där slumpar systemet upp ett tresiffrigt tal
