@@ -5,7 +5,7 @@ OSI
 ---
 Är modellen för att beskriva de olika lagren i en datauppsättning. 
 Den beskriver allt från grunden med inkoppling med sladdar till färdigt program och applikationer. 
-OCI har sju olika grundlager som måste uppfyllas för att ett system ska kunna köras.
+OSI har sju olika grundlager som måste uppfyllas för att ett system ska kunna köras.
  
 TCP/UDP
 -------
