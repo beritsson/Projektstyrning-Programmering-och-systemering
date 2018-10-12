@@ -1,7 +1,7 @@
 Skillnader mellan protocoller.
 ==============================
 
-OCI
+OSI
 ---
 Är modellen för att beskriva de olika lagren i en datauppsättning. 
 Den beskriver allt från grunden med inkoppling med sladdar till färdigt program och applikationer. 
@@ -9,10 +9,10 @@ OCI har sju olika grundlager som måste uppfyllas för att ett system ska kunna kö
  
 TCP/UDP
 -------
-Är ett förenklat system som beskriver OCI-lagren i fyra stycken lager. 
-Network Access – är förenklat som innehåller OCI-lagren: den fysiska datorn, och anslutningen
-Internet  -  är OCIs nätverket till omvärlden
-Host to host – är OCIs överflyttningen av data
+Är ett förenklat system som beskriver OSI-lagren i fyra stycken lager. 
+Network Access – är förenklat som innehåller OSI-lagren: den fysiska datorn, och anslutningen
+Internet  -  är OSIs nätverket till omvärlden
+Host to host – är OSIs överflyttningen av data
 Application – Är programmet och alla applikationer som tillhör huvudprogrammet. 
 
 TCP
