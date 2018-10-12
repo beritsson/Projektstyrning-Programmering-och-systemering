@@ -24,7 +24,7 @@ en websida eller en datafil. Om ett paket måste skickas om görs det utan avbrott
 		
 UDP
 ===
-Detta protokoll sänds över utan övervakning. Skulle ett paket vara fel ignoreras detoch överförningen 
+Detta protokoll sänds över utan övervakning. Skulle ett paket vara fel ignoreras det och överförningen 
 fortsätter som vanligt. Detta protokoll används vanligtvis via voice överförningar som iptelefoni 
 Skulle man använda TCP vid telefoni skulla man få delayer vilket gör att man pratar i
 munnen på varandra, detta undviks med UDP
