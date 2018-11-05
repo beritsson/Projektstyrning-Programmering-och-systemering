@@ -95,7 +95,8 @@ class Database():
 
             self.mydb.close()  # Stäng kopplingen mot databasen
         else:
-            print("Sorry du har redan en användare som heter så")
+            messagebox.showinfo("Info",
+                                "Det valda användarnamnet är upptaget")
             return "Du kan inte lägga till denna användare finns redan"
 
 
@@ -119,6 +120,7 @@ class Database():
             # Visar popup att användaren är borttagen
             messagebox.showinfo("Info",
                                 "Den valda användaren är borttagen")
+
 
             print("användare borttagen")
         except:
